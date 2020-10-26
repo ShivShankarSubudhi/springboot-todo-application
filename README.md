@@ -1,2 +1,2 @@
 # springboot-todo-application
-My First Springboot Implementation to make RESTFul APIs
+My First Springboot Project to implement a Simple Todo APP.
