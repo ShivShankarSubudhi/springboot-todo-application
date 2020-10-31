@@ -1,0 +1,21 @@
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+
+<html>
+
+<head>
+
+<title>${username} Add Todo | Todo Application</title>
+<link href="webjars/bootstrap/4.5.3/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+.navbar-right{margin-left:auto !important;}
+.text-bold{font-weight:bold;}
+.pad10{padding:10px;}
+.text-red{color:red;}
+.text-link{color:blue;}
+.text-link:hover{text-decoration:underline;}
+</style>
+</head>
+<body>
